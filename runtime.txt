@@ -1,2 +1,2 @@
 [deploy]
-startCommand = "python okr-bot.py"
+startCommand = "python okr_bot.py"
